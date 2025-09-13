@@ -1,4 +1,3 @@
-
 In this file i'm testing the branch function (main branch actived in this line) 
-This line is visible also while main branch is actived, even if it has been created with branch-test-#2, because of the pull request :)
 
+This line is visible also while main branch is actived, even if it has been created with branch-test-#2, because of the pull request :)
